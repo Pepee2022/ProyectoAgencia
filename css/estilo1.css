@@ -10,7 +10,7 @@ main{
 }
 
 li {
-    list-style-type: none;  
+    list-style-type: none;
 }
 .row{
     margin: auto;
@@ -46,7 +46,7 @@ li {
   .box > img {
     width: 200%;
     height: calc(100% - 10vh);
-    object-fit: cover; 
+    object-fit: cover;
     transition: .5s;
   }
   
